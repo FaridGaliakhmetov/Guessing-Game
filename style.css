@@ -1,0 +1,41 @@
+#golova{
+  background-color: rgb(38, 38, 109);
+  color:white;
+  border-radius: 25px 25px 0 0;
+  padding: 10px 10px 10px 20px;
+}
+#telo{
+  background-color: yellow;
+  
+  border-radius: 0 0 25px 25px;
+  padding-top:10px;
+  padding-bottom:70px;
+}
+#utelo{
+  background-color: white;
+  margin: 0 10px 10px 10px;
+  border-radius: 10px;
+  text-align: center;
+  
+  padding: 20px;
+}
+input{
+  margin: 10px;
+  height: 40px;
+  font-size: large;
+  padding-left: 10px;
+}
+button{
+  width: 250px;
+  height:40px;
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  border: 0px;
+}
+.show{
+  color:green;
+  font-family: sans-serif;
+}
